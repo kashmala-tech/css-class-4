@@ -1,0 +1,21 @@
+.heading{
+    background-color: blue;
+    background-color: tomato;
+    background-color: violet;
+    background-color: seagreen;
+    background-color: dodgerblue;
+    background-color: orange;
+    background-color: slateblue;
+    color: rgb(209, 20 ,17/ alpha);
+   color: blue;
+}
+.char{
+background-color:rgb(112,150 , 200 );
+color: aquamarine;
+
+}
+/*method 3 of applying color */
+h3{
+    background-color:#AD27F5 ;
+    color: aqua;
+}
